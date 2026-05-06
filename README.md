@@ -2,7 +2,7 @@
 ### 🚀 Updates
 - Updated repository and homepage links.
 - Initialized official release branch.
-- 
+  
 ---
 
 ## [1.0.2] - 2026-05-06
