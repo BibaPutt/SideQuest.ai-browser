@@ -1,3 +1,15 @@
+## [1.0.3] - 2026-05-06
+### 🚀 Updates
+- Updated repository and homepage links.
+- Initialized official release branch.
+- 
+---
+
+## [1.0.2] - 2026-05-06
+### 🚀 Updates
+- Ui and performance fixes
+
+---
 ## [1.0.1] - 2026-05-05
 ### ✨ New Features
 - **What's New Panel**: Added a sleek, sliding changelog modal that appears after updates.
@@ -16,14 +28,24 @@
 ---
 
 ## [1.0.0] - 2026-04-20
-### 🎉 Initial Release
-- Basic SideQuest browser functionality.
-- Multi-language support and internationalization.
+### 🎉 Core Features
+- **Multi-Site Productivity**: A seamless sidebar interface allowing you to pin and switch between your favorite web apps.
 
-### ✨ New Features
-- Added support for custom AI prompts and tag-based organization.
+### 🛡️ Advanced Security
+- **Secure Sandbox**: Native support for Chrome extensions and isolated web sessions for maximum privacy.
+- **Security Auditing**: Real-time connection auditing and security popovers for every site you visit.
+- **Privacy Controls**: Granular control over history, cache, and third-party tracking.
 
-### 🛠️ Bug Fixes
-- Fixed Favicon loading issues for certain domains.
+### 📈 Smart Performance
+- **Resource Balancer**: Intelligent memory management that unloads inactive sites to maintain peak system performance.
+- **Global Sync Engine**: Encrypted cloud synchronization for your sites, settings, and custom prompts.
+- **Gamified Productivity**: Built-in Streak Service to track your daily progress and keep you engaged.
+
+### 🌍 Global Accessibility
+- **Deep i18n Integration**: Professionally translated into 18+ languages with a robust logic-hub architecture.
+- **Interactive Onboarding**: A comprehensive guided tutorial to get you up to speed in seconds.
+- **PDF & Local Files**: Drag-and-drop support for local PDFs and documents directly into the sidebar.
+
+
 
   
